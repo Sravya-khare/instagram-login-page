@@ -1,2 +1,2 @@
-# instagram-login-page
-Instagram-login-page recreated using HTML and CSS
+# instagram-login-UI
+Instagram-login-UI recreated using HTML and CSS
